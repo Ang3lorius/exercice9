@@ -1,0 +1,24 @@
+/*dégradé coin bas droite de color:#ff416c à color:#ff464c*/
+/*border-radius pour les coins arrondis*/
+body{
+    background-color:#f3e0e2;
+    font-family: sans-serif;
+    /* justify-content: center; */
+}
+main{
+    width: 100%;
+}
+
+.login{
+    background-color: white;
+    align-content: center;
+    width: 50%;
+}
+
+.logo{
+    display: flex;
+    width: 10%;
+}
+.noir{
+font-weight: 1000;
+}
